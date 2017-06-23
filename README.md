@@ -2,7 +2,7 @@
 Job de camionneur pour ESX
 
 # NECESSAIRE
-Vous avez besoin d'avoir es_estended sur votre serveur.<br>
+Vous avez besoin de es_estended sur votre serveur.<br>
 https://github.com/indilo53/fivem-es_extended
 
 # INSTALLATION

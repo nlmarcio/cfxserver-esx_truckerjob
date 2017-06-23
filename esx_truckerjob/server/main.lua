@@ -1,6 +1,3 @@
-require "resources/[essential]/es_extended/lib/MySQL"
-MySQL:open("localhost", "database", "user", "pass")
-
 RegisterServerEvent('esx_truckerjob:requestPlayerData')
 AddEventHandler('esx_truckerjob:requestPlayerData', function(reason)
 	TriggerEvent('esx:getPlayerFromId', source, function(xPlayer)
